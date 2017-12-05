@@ -2,15 +2,12 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.tuo.framework4android.ExampleActivity">
+    android:layout_height="match_parent">
 
-
-    <com.joanzapata.iconify.widget.IconTextView
-        android:id="@+id/itv"
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="{iconfot icon_ali_pay}"
+        android:text="example delegate"
         tools:ignore="HardcodedText" />
 
 </LinearLayout>

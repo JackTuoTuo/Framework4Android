@@ -5,11 +5,14 @@ import android.app.Application;
 import com.joanzapata.iconify.fonts.FontAwesomeModule;
 import com.tuo.tuo.app.Tuo;
 import com.tuo.tuo.ec.icon.FontECModule;
-
 /**
- * @describe TODO
- * 作者：Tuo on 2017/12/4 11:19
- * 邮箱：839539179@qq.com
+ * <pre>
+ *     author : Tuo
+ *     e-mail : 839539179@qq.com
+ *     time   : 2017/12/05
+ *     desc   : Application 配置项目参数
+ *     version: 1.0
+ * </pre>
  */
 
 public class ExampleApp extends Application {
